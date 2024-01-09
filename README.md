@@ -18,7 +18,7 @@ My web development (and AI projects!) journey over the years~
 - Docker
 
 ### DevOps
-- Jenkin
+- Jenkins
 - Terraform
   
 ### Databases
