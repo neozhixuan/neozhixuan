@@ -16,6 +16,10 @@ My web development (and AI projects!) journey over the years~
 - Amazon EC2, S3, EKS
 - GCP Kubernetes
 - Docker
+
+### DevOps
+- Jenkin
+- Terraform
   
 ### Databases
 - NoSQL (MongoDB, Firebase)
