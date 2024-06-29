@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-My web development (and AI projects!) journey over the years~ 
+My web development (and AI projects!) journey over the years!
+
+## Medium Articles
+- [Docker](https://medium.com/@neozhixuan_41493/docker-in-simple-terms-54512dd66a84)
+- [Kubernetes](https://medium.com/@neozhixuan_41493/kubernetes-in-simple-terms-6570f917f8c5)
+- [MERN Stack](https://medium.com/@neozhixuan_41493/why-use-mern-basics-to-mern-5badf60cb866)
+- [Spring Boot framework with PostgreSQL backend](https://medium.com/@neozhixuan_41493/why-use-spring-boot-creating-your-first-spring-boot-x-postgresql-backend-066e498115d8)
 
 ### Frontend
 - React (Redux, Query, Context)
@@ -11,10 +17,11 @@ My web development (and AI projects!) journey over the years~
 - Flask REST
 - Spring Boot
 - Node.js/Express.js
+- gRPC Protobuf
 
 ### Cloud
-- Amazon EC2, S3, EKS
-- GCP Kubernetes
+- Amazon Web Services (VPCs, Kubernetes, Lambda, etc.)
+- Google Cloud Platform (Kubernetes, Firebase, Cloud Run etc.)
 - Docker
 
 ### DevOps
