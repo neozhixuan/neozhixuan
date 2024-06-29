@@ -2,7 +2,9 @@
 
 My web development (and AI projects!) journey over the years!
 
-## Medium Articles
+## My development work
+
+### Medium Articles
 - [Docker](https://medium.com/@neozhixuan_41493/docker-in-simple-terms-54512dd66a84)
 - [Kubernetes](https://medium.com/@neozhixuan_41493/kubernetes-in-simple-terms-6570f917f8c5)
 - [MERN Stack](https://medium.com/@neozhixuan_41493/why-use-mern-basics-to-mern-5badf60cb866)
