@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-My web development (and AI projects!) journey over the years!
-
-## My development work
-
-### Medium Articles
-- [Docker](https://medium.com/@neozhixuan_41493/docker-in-simple-terms-54512dd66a84)
-- [Kubernetes](https://medium.com/@neozhixuan_41493/kubernetes-in-simple-terms-6570f917f8c5)
-- [MERN Stack](https://medium.com/@neozhixuan_41493/why-use-mern-basics-to-mern-5badf60cb866)
-- [Spring Boot framework with PostgreSQL backend](https://medium.com/@neozhixuan_41493/why-use-spring-boot-creating-your-first-spring-boot-x-postgresql-backend-066e498115d8)
+My web development (and AI projects!) journey over the years~
+The older repositories have poor code quality but I promise this has improved greatly...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=neozhixuan&theme=blue-green)](https://git.io/streak-stats)
 
